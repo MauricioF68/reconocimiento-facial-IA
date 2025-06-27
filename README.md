@@ -160,5 +160,4 @@ Frontend (React Native): Podrás generar un build de producción (.apk para Andr
 📝 Autor
 MauricioF68 - https://github.com/MauricioF68
 
-📄 Licencia
-Este proyecto está bajo la [Escribe aquí el tipo de licencia que elijas, por ejemplo: Licencia MIT]. Para más detalles, consulta el archivo LICENSE en la raíz del repositorio.
+
